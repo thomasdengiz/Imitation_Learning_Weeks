@@ -39,7 +39,7 @@ The main file for running the different approaches is [Run_Simulations](Run_Simu
 
 **Thomas Dengiz, Max Kleinebrahm** (2024):  
 *"Imitation learning with artificial neural networks for demand response with a heuristic control approach for heat pumps"*.  
-_Energy and AI_, Volume 18, 2024.  
+_Energy and AI_, Volume 18, 2024, 100441.  
 DOI: [https://doi.org/10.1016/j.egyai.2024.100441](https://doi.org/10.1016/j.egyai.2024.100441)
 
 
